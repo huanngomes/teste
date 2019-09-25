@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Nivisson Huann 
 Pedro Henrrique
+=======
+Pedro Henrique 
+Nivisson 
+>>>>>>> 44d298140b3276b9da2763cb886c805b7b0c34c3
